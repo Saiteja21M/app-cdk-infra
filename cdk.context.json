@@ -1,0 +1,14 @@
+{
+  "acknowledged-issue-numbers": [
+    34892
+  ],
+  "availability-zones:account=751236674196:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=751236674196:domainName=cloud-sai.com:region=eu-central-1": {
+    "Id": "/hostedzone/Z10175113MGUMJU5VWEO6",
+    "Name": "cloud-sai.com."
+  }
+}
